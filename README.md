@@ -30,6 +30,6 @@ A smart mobile-friendly application that enables users to interact with a theate
 - java using Androis Studio
 
 ## Δημιουργήθηκε απο 
-Παναγιωτα Γεωργαρη (6ο εξάμηνο)
-Γεωργία Εμμανουέλα Μαρίνου (6ο εξάμηνο)
+- Παναγιωτα Γεωργαρη (6ο εξάμηνο)
+- Γεωργία Εμμανουέλα Μαρίνου (6ο εξάμηνο)
 
