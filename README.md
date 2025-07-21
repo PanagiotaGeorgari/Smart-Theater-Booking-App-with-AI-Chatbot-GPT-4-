@@ -31,3 +31,5 @@ A smart mobile-friendly application that enables users to interact with a theate
 
 ## Δημιουργήθηκε απο 
 Παναγιωτα Γεωργαρη (6ο εξάμηνο)
+Γεωργία Εμμανουέλα Μαρίνου (6ο εξάμηνο)
+
