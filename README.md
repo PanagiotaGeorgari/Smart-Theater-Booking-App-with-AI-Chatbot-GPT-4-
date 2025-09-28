@@ -27,7 +27,7 @@ A smart mobile-friendly application that enables users to interact with a theate
 
 ###  Frontend (Mobile)
 - API calls to Flask backend
-- java using Androis Studio
+- java using Android Studio
 
 ## Δημιουργήθηκε απο 
 - Παναγιωτα Γεωργαρη (6ο εξάμηνο)
